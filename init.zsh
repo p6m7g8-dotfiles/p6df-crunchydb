@@ -8,7 +8,7 @@
 ######################################################################
 p6df::modules::crunchydb::deps() {
   ModuleDeps=(
-    p6m7g8-dotfiles/p6df-postgresql
+    p6m7g8-dotfiles/p6df-pgsql
   )
 }
 
