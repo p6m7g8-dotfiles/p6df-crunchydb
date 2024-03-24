@@ -15,18 +15,6 @@ p6df::modules::crunchydb::deps() {
 ######################################################################
 #<
 #
-# Function: p6df::modules::crunchydb::init()
-#
-#>
-######################################################################
-p6df::modules::crunchydb::init() {
-
-  p6_return_void
-}
-
-######################################################################
-#<
-#
 # Function: p6df::modules::crunchydb::vscodes()
 #
 #>
@@ -74,4 +62,3 @@ p6df::modules::crunchydb::clones() {
 # https://www.crunchydata.com/products/crunchy-postgresql-for-kubernetes/
 # https://access.crunchydata.com/documentation/
 # https://github.com/CrunchyData/pg_featureserv
-
